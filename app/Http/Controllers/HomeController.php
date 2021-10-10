@@ -30,7 +30,7 @@ class HomeController extends Controller
   {
     $pasien = Pasien::all()->collect()->count();
     $dokter = Dokter::all()->collect()->count();
-    $obat = Obat::all()->collect()->count();
+    $obat =  Obat::all()->collect()->count() ? Obat::all()->collect()->count() : null;
     $perjanjian = Perjanjian::where('nama_dokter', Auth::user()->name)->get();
     $data = [
       'pasien' => $pasien,
