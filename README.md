@@ -46,4 +46,5 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ## Patients who want to seek treatment must make an appointment with a Dokter first
 ![image](https://user-images.githubusercontent.com/68288783/136683363-0aeabc0d-bc32-4ec5-bea0-b00d8b473b8f.png)
 
-
+# Demo Link
+http://crud-medical-website.herokuapp.com/
