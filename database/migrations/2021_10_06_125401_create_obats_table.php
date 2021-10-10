@@ -18,8 +18,8 @@ class CreateObatsTable extends Migration
       $table->string('nama_obat');
       $table->integer('jumlah_obat');
       $table->integer('harga_obat');
-      $table->unsignedBigInteger('pasien_id')->nullable();
-      $table->foreign('pasien_id')->references('id')->on('pasiens')->onDelete('cascade');
+      // $table->unsignedBigInteger('pasien_id')->nullable();
+      // $table->foreign('pasien_id')->references('id')->on('pasiens')->onDelete('cascade');
       $table->timestamps();
     });
   }
