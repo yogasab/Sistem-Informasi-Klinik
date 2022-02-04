@@ -1,5 +1,8 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
+# Demo Link
+[Demo Link](http://crud-medical-website.herokuapp.com/)
+
 ## About Laravel
 
 Projek Sistem Informasi Klinik untuk membantu klinik dalam pencatatan pasien.
@@ -38,6 +41,3 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 # Pasien
 ## Patients who want to seek treatment must make an appointment with a Dokter first
 ![image](https://user-images.githubusercontent.com/68288783/136683363-0aeabc0d-bc32-4ec5-bea0-b00d8b473b8f.png)
-
-# Demo Link
-http://crud-medical-website.herokuapp.com/
